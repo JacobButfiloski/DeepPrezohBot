@@ -1,0 +1,16 @@
+{
+  "name": "prezohtweeter",
+  "version": "1.0.0",
+  "description": "it tweets prezoh tweets",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Jake Butfiloski",
+  "license": "ISC",
+  "dependencies": {
+    "deepai": "^1.0.15",
+    "needle": "^2.5.2"
+  },
+  "devDependencies": {}
+}

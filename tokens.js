@@ -1,0 +1,4 @@
+module.exports = {
+    clienttoken: "AAAAAAAAAAAAAAAAAAAAAAfxHQEAAAAAY3uN%2BfhAqwBW8xVuPRG5Qky4pv4%3D3PbyqWWCSMz3uEAhJG5LKwtl84KCuWBxIxdLMUIXItHQcUAHCF",
+    deepaitoken: "56a1843e-360d-4336-8062-3bc132655632"
+}
